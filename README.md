@@ -5,7 +5,7 @@
 - Technologies: Python , machine learning , power bi , excel , power query , streamlit , github
 
 Power Bi Dashboard contents:
-- summamry of tamil nadu sales.
+- summary of tamil nadu sales.
 - Finding cities that have highest sales growth for business expansion.
 - Does discount drive sales and increase product performance?
 - orders in different cities.
