@@ -1,8 +1,9 @@
 # Capstone Project: Sales Analysis of Tamil Nadu:
 #### Objective: The objective of this sales analysis project is to identify trends and patterns in Tamil Nadu sales data, and to provide actionable recommendations for improving our sales performance.
 
-- Summary: This sales analysis project focuses on the state of Tamil Nadu in India. The main objective is to understand the current retail landscape in the state, including key players and market trends.The analysis will cover topics such as consumer demographics, spending patterns, and e-commerce growth.The findings of the analysis will be used to identify opportunities and challenges for retailers operating in the state, and to make recommendations for businesses looking to enter the market.
-- Technologies: Python , machine learning , power bi , excel , power query , streamlit , github
+Summary: This sales analysis project focuses on the state of Tamil Nadu in India. The main objective is to understand the current retail landscape in the state, including key players and market trends.The analysis will cover topics such as consumer demographics, spending patterns, and e-commerce growth.The findings of the analysis will be used to identify opportunities and challenges for retailers operating in the state, and to make recommendations for businesses looking to enter the market.
+
+Technologies: Python , machine learning , power bi , excel , power query , streamlit , github
 
 Power Bi Dashboard contents:
 - summary of tamil nadu sales.
@@ -21,3 +22,10 @@ Methods:
 - Time Series Analysis: Forecasting Growth For upcoming years
 - model deployment: Deployed my model to streamlit.
 - model app contains 4 pages: Sales dashboard , correlation page , Time series page , prediction page.
+
+Powerpoint presentation:
+- overview.
+- Insights
+- keys and finding.
+- recommendation.
+
